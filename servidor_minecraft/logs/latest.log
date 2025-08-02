@@ -1,0 +1,161 @@
+[02Aug2025 00:23:45.984] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[02Aug2025 00:23:45.990] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[02Aug2025 00:23:46.109] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file /workspaces/giu-mineserver/servidor_minecraft/config/fml.toml is not correct. Correcting
+[02Aug2025 00:23:46.112] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSkipGLVersions] was corrected from null to []
+[02Aug2025 00:23:46.114] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowLogHelpMessage] was corrected from null to true
+[02Aug2025 00:23:46.115] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSquir] was corrected from null to false
+[02Aug2025 00:23:46.116] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowShowCPU] was corrected from null to false
+[02Aug2025 00:23:46.139] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[02Aug2025 00:23:46.203] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/giu-mineserver/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[02Aug2025 00:23:46.558] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/giu-mineserver/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[02Aug2025 00:23:46.564] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/giu-mineserver/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02Aug2025 00:23:46.566] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/giu-mineserver/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02Aug2025 00:23:46.569] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/giu-mineserver/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02Aug2025 00:23:46.806] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[02Aug2025 00:23:49.287] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[02Aug2025 00:23:58.403] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[02Aug2025 00:23:58.406] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[02Aug2025 00:23:59.480] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[02Aug2025 00:24:00.152] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[02Aug2025 00:24:01.251] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02Aug2025 00:24:01.299] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/giu-mineserver/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/assets/.mcassetsroot' uses unexpected schema
+[02Aug2025 00:24:01.299] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/giu-mineserver/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/data/.mcassetsroot' uses unexpected schema
+[02Aug2025 00:24:04.523] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[02Aug2025 00:24:04.734] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
+[02Aug2025 00:24:05.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[02Aug2025 00:24:05.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[02Aug2025 00:24:05.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[02Aug2025 00:24:05.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[02Aug2025 00:24:05.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[02Aug2025 00:24:05.789] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[02Aug2025 00:24:05.983] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02Aug2025 00:24:05.984] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[02Aug2025 00:24:05.984] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02Aug2025 00:24:05.985] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[02Aug2025 00:24:06.042] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
+[02Aug2025 00:24:06.044] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Aug2025 00:24:06.045] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
+[02Aug2025 00:24:06.046] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
+[02Aug2025 00:24:06.046] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
+[02Aug2025 00:24:06.047] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBaseSummonChance was corrected from null to its default, 0.1. 
+[02Aug2025 00:24:06.048] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBabyChance was corrected from null to its default, 0.05. 
+[02Aug2025 00:24:06.049] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
+[02Aug2025 00:24:06.050] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advertiseDedicatedServerToLan was corrected from null to its default, true. 
+[02Aug2025 00:24:06.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[02Aug2025 00:24:19.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[02Aug2025 00:24:20.970] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:20.975] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:20.976] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:20.976] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:21.451] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:21.954] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:22.505] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:23.052] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:23.483] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:23.954] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:24.473] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:25.009] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:25.508] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:25.982] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:26.461] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:26.950] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:27.466] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:27.969] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:28.550] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:29.115] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:29.473] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:29.973] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:30.469] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:30.964] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:31.472] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:31.958] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:32.457] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:32.997] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:33.446] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:33.998] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:34.479] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:34.996] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:35.471] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:35.988] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:36.465] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:36.973] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:37.446] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:37.977] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:38.495] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:38.956] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:39.468] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:39.950] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:40.469] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:40.952] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:41.489] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:41.954] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:42.453] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:42.968] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:43.454] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:43.965] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:44.466] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:44.987] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:45.448] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:45.947] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:46.453] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:46.976] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:47.447] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:47.950] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:48.455] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:48.948] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:49.467] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:49.997] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:50.471] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:50.968] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:51.449] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:51.953] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:52.447] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:52.964] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:53.405] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Aug2025 00:24:53.497] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:53.560] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Aug2025 00:24:53.783] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Aug2025 00:24:53.978] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:54.451] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:54.981] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:55.468] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:55.949] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:56.453] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:56.946] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:57.445] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:57.954] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:58.343] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Aug2025 00:24:58.467] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:58.959] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:59.474] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:24:59.945] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:25:00.467] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:25:00.682] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Aug2025 00:25:00.972] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:25:02.655] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:25:02.656] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:25:02.656] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:25:02.976] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:25:03.456] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:25:03.961] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:25:04.479] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:25:04.965] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:25:05.494] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:25:05.953] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:25:06.453] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:25:07.349] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Aug2025 00:25:07.446] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
+[02Aug2025 00:25:08.194] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[02Aug2025 00:25:11.387] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 51942 ms
+[02Aug2025 00:25:11.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (65.357s)! For help, type "help"
+[02Aug2025 00:25:11.417] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[02Aug2025 00:25:12.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[02Aug2025 00:25:12.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: home/codespace/.python/current/bin/python /workspaces/giu-mineserver/msx.py<--[HERE]
+[02Aug2025 00:26:02.077] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@f70c389[id=<null>,name=sapito_g,properties={},legacy=false] (/127.177.77.174:41107) lost connection: Disconnected
+[02Aug2025 00:27:22.268] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@935b13a[id=<null>,name=sapito_g,properties={},legacy=false] (/127.177.77.174:54901) lost connection: Disconnected
+[02Aug2025 00:28:34.668] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sapito_g[/127.177.77.174:37929] logged in with entity id 382 at (-40.5, 70.0, 40.5)
+[02Aug2025 00:28:34.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sapito_g joined the game
+[02Aug2025 00:31:19.877] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sapito_g lost connection: Timed out
+[02Aug2025 00:31:19.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sapito_g left the game
+[02Aug2025 00:31:33.034] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sapito_g[/127.177.77.174:36497] logged in with entity id 1010 at (-18.732567596645215, 68.0, 105.16052438665338)
+[02Aug2025 00:31:33.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sapito_g joined the game
