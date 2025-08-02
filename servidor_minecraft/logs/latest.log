@@ -159,3 +159,15 @@
 [02Aug2025 00:31:19.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sapito_g left the game
 [02Aug2025 00:31:33.034] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sapito_g[/127.177.77.174:36497] logged in with entity id 1010 at (-18.732567596645215, 68.0, 105.16052438665338)
 [02Aug2025 00:31:33.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sapito_g joined the game
+[02Aug2025 00:36:04.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sapito_g lost connection: Disconnected
+[02Aug2025 00:36:04.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sapito_g left the game
+[02Aug2025 00:36:11.681] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sapito_g[/127.177.77.174:60893] logged in with entity id 2030 at (116.90204747755244, 63.0, 80.73013367206879)
+[02Aug2025 00:36:11.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sapito_g joined the game
+[02Aug2025 00:39:15.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sapito_g hit the ground too hard
+[02Aug2025 00:39:24.770] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sapito_g lost connection: Disconnected
+[02Aug2025 00:39:24.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sapito_g left the game
+[02Aug2025 00:39:29.930] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sapito_g[/127.177.77.174:35399] logged in with entity id 2581 at (51.151328939577716, 68.0, 73.96408879433291)
+[02Aug2025 00:39:29.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sapito_g joined the game
+[02Aug2025 00:41:27.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sapito_g was slain by Zombie
+[02Aug2025 00:41:32.529] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sapito_g lost connection: Disconnected
+[02Aug2025 00:41:32.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sapito_g left the game
